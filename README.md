@@ -1,12 +1,10 @@
-# Keatt Anniversaire
-<!DOCTYPE html>
 <html>
 <head>
 	<title>KEATT</title>
 	<link rel="stylesheet" type="text/css" href="FORMATO 2yrs.css">
 </head>
 <body> 
-	<font:banyu></font>
+	<font:CRONISSE></font>
 	<h1><u><center>HANIE AND MATT</center></u></h1>
 	<DL>
 			<DT><img src="jae12.png" width="400" border="2" vspace="10" hspace="50" align="right"> 
