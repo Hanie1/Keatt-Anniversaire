@@ -89,7 +89,7 @@
 				</LI>
 		
 
-			<DT><img src="jae 1.gif" width="300" border="3" vspace="10" hspace="50" align="left"> 
+			<DT><img src="jae 1.gif" width="300" border="3" vspace="10" hspace="50" align="center"> 
 		<br> 
 		<br>
 		<br>
