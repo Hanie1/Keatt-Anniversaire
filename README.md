@@ -4,7 +4,7 @@
 	<link rel="stylesheet" type="text/css" href="FORMATO 2yrs.css">
 </head>
 <body> 
-	<font:banyu></font>
+	<font:banyu>
 	<h1><u><center>HANIE AND MATT</center></u></h1>
 	<DL>
 			<DT><img src="jae12.png" width="650" border="0" vspace="10" hspace="50" align="right"></DT>
