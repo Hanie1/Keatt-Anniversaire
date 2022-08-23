@@ -7,7 +7,7 @@
 	<font:CRONISSE></font>
 	<h1><u><center>HANIE AND MATT</center></u></h1>
 	<DL>
-			<DT><img src="jae12.png" width="500" border="2" vspace="10" hspace="50" align="right"> 
+			<DT><img src="jae12.png" width="500" border="2" vspace="20" hspace="60" align="right"> 
 	<H3><center><p align="justify">	
 		Hoy estamos cumpliendo dos años juntos e insisto que el tiempo a tu lado pasó volando, ¿qué no hemos pasado junto en estos años? creo que hicimos casi de todo y quiero agradecerte por todo este tiempo que estuviste conmigo, siempre he podido contar contigo, estuviste en cada momento de mi vida, compartiendo risas como llantos (más de mi parte), hemos ido creando varios recuerdos que me gusta mencionar de vez en cuando en nuestras pláticas o contarlas a conocidos, decirles algo como "sí, con mi novio hicimos esto" o algo como "uhum, la otra vez con mi prometido" y más cosas por el estilo donde siempre termino por mencionarte inconscientemente, un día de estos me dirán "hanma, ya basta, ya sabemos sobre tu novio".
 	</p>
