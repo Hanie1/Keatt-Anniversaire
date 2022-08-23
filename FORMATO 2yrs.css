@@ -1,0 +1,22 @@
+body 
+{
+	background-color: #e2e8f3
+}
+
+@font-face{
+	font-family:themillion;
+	src: url(Crons.ttf);
+}
+
+h1{
+	font-family:themillion;
+}
+
+table {
+	<TABLE BORDER=2 bordercolor="red" >
+}
+
+
+container-all img{
+	float: left;
+}
