@@ -10,10 +10,9 @@
 	<h1><u><center>HANIE AND MATT</center></u></h1>
 	<DL>
 			<DT><img src="jae12.png" width="400" border="2" vspace="10" hspace="50" align="right"> 
-		</DL>
 	<H3><center><p align="justify">	
 		Hoy estamos cumpliendo dos años juntos e insisto que el tiempo a tu lado pasó volando, ¿qué no hemos pasado junto en estos años? creo que hicimos casi de todo y quiero agradecerte por todo este tiempo que estuviste conmigo, siempre he podido contar contigo, estuviste en cada momento de mi vida, compartiendo risas como llantos (más de mi parte), hemos ido creando varios recuerdos que me gusta mencionar de vez en cuando en nuestras pláticas o contarlas a conocidos, decirles algo como "sí, con mi novio hicimos esto" o algo como "uhum, la otra vez con mi prometido" y más cosas por el estilo donde siempre termino por mencionarte inconscientemente, un día de estos me dirán "hanma, ya basta, ya sabemos sobre tu novio".
-	</center></p></H3>
+	</center></p>
 
 	<H3><center><p align="justify">	
 		Cada día a tu lado es una sorpresa, siempre hay algo nuevo de lo que podemos hablar y eso me encanta, tal vez no te lo comente, pero un mensajito tuyo ya me tiene sonriendo como tonto todo el rato, eres muy simpático. Quiero continuar a tu lado, sé que no soy el mejor (ante los demás sí, obviamente) y que debo mejorar algunas cosas, pero ten por seguro que solo quiero hacerte feliz por más que haga mis tonterías, te pido perdón por ello y todas las veces que te hice pasar un mal momento, también gracias por darme tu confianza, contarme como te sientes, eso es muy importante para mí. 
