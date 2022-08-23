@@ -4,10 +4,10 @@
 	<link rel="stylesheet" type="text/css" href="FORMATO 2yrs.css">
 </head>
 <body> 
-	<font:CRONISSE></font>
+	<font:CRONISSE>
 	<h1><u><center>HANIE AND MATT</center></u></h1>
 	<DL>
-			<DT><img src="jae12.png" width="600" border="2" vspace="10" hspace="50" align="right"></DT>
+			<DT><img src="jae12.png" width="650" border="2" vspace="10" hspace="50" align="right"></DT>
 	<H3><center><p align="justify">	
 		Hoy estamos cumpliendo dos años juntos e insisto que el tiempo a tu lado pasó volando, ¿qué no hemos pasado junto en estos años? creo que hicimos casi de todo y quiero agradecerte por todo este tiempo que estuviste conmigo, siempre he podido contar contigo, estuviste en cada momento de mi vida, compartiendo risas como llantos (más de mi parte), hemos ido creando varios recuerdos que me gusta mencionar de vez en cuando en nuestras pláticas o contarlas a conocidos, decirles algo como "sí, con mi novio hicimos esto" o algo como "uhum, la otra vez con mi prometido" y más cosas por el estilo donde siempre termino por mencionarte inconscientemente, un día de estos me dirán "hanma, ya basta, ya sabemos sobre tu novio".
 	
@@ -30,7 +30,7 @@
 			<center>
 				<table BORDER CELLPADDING=10 CELLSPACING=1  bordercolor="#A18594">
 				<tr>
-					<h2><td><b><center>Canción</center></b></td> <td><b><center>Artista</center></b></td> <td><b><center>Link</center></b></td> <td><b><center>Motivo</center></b></td></h2>
+					<h4><td><b><center>Canción</center></b></td> <td><b><center>Artista</center></b></td> <td><b><center>Link</center></b></td> <td><b><center>Motivo</center></b></td></h4>
 				</tr>
 				<tr>
 					<td><center>Yonaguni</center></td> <td><center>Bad Bunny</center></td> <td><ul><a href="https://www.youtube.com/watch?v=doLMt10ytHY" target="_blank">www.youtube.com/watch?v=doLMt10ytHY</a></ul></td> <td>Cuando escuché esta canción, al instante se me vino que debía dedicártela y por eso es que en su momento te la mandé, si omitimos ciertas partes, describe un poco como es que empezamos nuestra relación y hay partes donde explica como me sentía cuando me iba enamorando de ti, además que quiero empezar el 2023 contigo, simplemente la canción es perfecta.</td>
@@ -80,7 +80,6 @@
 				<td>Middle of the Night</td> <td>Elley Duhé</td> <td><ul><a href="https://www.youtube.com/watch?v=iqpQgCaBEYY" target="_blank">www.youtube.com/watch?v=iqpQgCaBEYY</a></ul></td> <td>Y ya finalizando con todo, te dejo esta canción que en su momento te mencioné era especial y estoy seguro de querer dedicártela, no quiero entrar en muchos detalles, creo la letra habla por sí sola.</td>
 
 				</table>
-				</center>
 
 			<h3><LI>DRIVE
 				<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -88,13 +87,10 @@
 				<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 				<i class="material-icons" style="font-size:20px">folder</i>
 				</LI>
-
-		</MENU>
 		
 
 		<DL>
 			<DT><img src="jae 1.gif" width="300" border="3" vspace="10" hspace="50" align="left"> 
-		</DL>
 		<br> 
 		<br>
 		<br>
