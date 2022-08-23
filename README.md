@@ -16,22 +16,22 @@
 
 	<H3><center><p align="justify">	
 		Cada día a tu lado es una sorpresa, siempre hay algo nuevo de lo que podemos hablar y eso me encanta, tal vez no te lo comente, pero un mensajito tuyo ya me tiene sonriendo como tonto todo el rato, eres muy simpático. Quiero continuar a tu lado, sé que no soy el mejor (ante los demás sí, obviamente) y que debo mejorar algunas cosas, pero ten por seguro que solo quiero hacerte feliz por más que haga mis tonterías, te pido perdón por ello y todas las veces que te hice pasar un mal momento, también gracias por darme tu confianza, contarme como te sientes, eso es muy importante para mí. 
-	</center></p></H3>
+	</center></p>
 
 	<h3><center><p align="justify">
 		Bueno, esto parece más mis disculpas que unas palabras por nuestros dos años.
 		Creo te lo dije hace un tiempo, pero no está mal recordarlo de vez en cuando, eres mi adoración y hay algo que no te he dicho directamente por pena desde que volví de aquel tiempo que te pedí, así que por aquí lo hago, tal vez en este punto esté todo nerviosa, pero ajá. Esos días en los que no estuvimos juntos, se sintieron una tortura, hablo enserio, tenía que mantenerme ocupado para poder despejar mi mente y no sobrepensar las cosas, pero como siempre, en la noche todo se me venía encima, no sé cuántas veces estuve con krevan y hiraeth llorando por lo mismo, en ese tiempo pude confirmar que sin ti no sé qué haría, a este punto de mi vida estoy tan acostumbrado a ti que si no te tengo, se siente un gran vacío que no podría explicarlo muy bien, pero no deseo repetirlo de nuevo, me hiciste muchísima falta y era peor cuando no sabía cómo hablarte de nuevo hasta esa vez por la noche e incluso estaba nervioso por un posible rechazo tuyo, las cosas estaban algo mmmmmm desde mi lugar. Luego cuando volvimos hablar poco a poco, mi ánimo comenzó a subir hasta ese día donde tuvimos el malentendido con que el otro no había respondido, debo admitir que me chocó el haber estado hablando normal y que de la nada hayamos vuelto a lo mismo de antes, pero lo solucionamos, ahora me siento mejor, con más ánimos y tranquilo, creo que después de todo debió servir de algo mi descanso, supongamos que sí sirvió.
-	</p></center></h3>
+	</p></center>
 
 	<h3><center><p align="justify">
 		Ahora, como sabrás, me quedé medio traumadito con usar apk, así que decidí aprovechar esto para dejarte una pequeña lista de canciones que me gustaría dedicarte, por favor omitamos las partes obscenas que algunas canciones tienen y al último te dejé algo más, espero te gusten, perdón si no son lo que esperabas para nuestro aniversario, te amo.
-	</p></center></h3>
+	</p></center>
 		<MENU>
 			<h3><li>PLAYLIST KEATT
 			<meta name="viewport" content="width=device-width, initial-scale=1"> 
 
 			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><i class="fa fa-youtube-play" style="font-size:20px"></i></li>
-			</h3>
+			
 			<center>
 				<table BORDER CELLPADDING=10 CELLSPACING=1  bordercolor="#A18594">
 				<tr>
@@ -92,7 +92,7 @@
 
 				<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 				<i class="material-icons" style="font-size:20px">folder</i>
-				</LI></h3>
+				</LI>
 
 		</MENU>
 		
@@ -106,7 +106,7 @@
 		<br>
 		<br>
 		<br><center><a href="https://drive.google.com/drive/folders/1euKtye_rkWT500olWbnNrJfGJl9o-b-S?usp=sharing" target="_blank">drive.google.com/drive/folders/1euKtye_rkWT500olWbnNrJfGJl9o-b-S?usp=sharing</center>
-	</center></p></H3>
+	</center></p>
 		
 
 </body>
