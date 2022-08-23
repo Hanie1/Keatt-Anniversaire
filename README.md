@@ -1,4 +1,3 @@
-# Keatt Anniversaire
 <html>
 <head>
 	<title>KEATT</title>
