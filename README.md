@@ -10,14 +10,14 @@
 			<DT><img src="jae12.png" width="300" border="2" vspace="20" hspace="60" align="right"> 
 	<H3><center><p align="justify">	
 		Hoy estamos cumpliendo dos años juntos e insisto que el tiempo a tu lado pasó volando, ¿qué no hemos pasado junto en estos años? creo que hicimos casi de todo y quiero agradecerte por todo este tiempo que estuviste conmigo, siempre he podido contar contigo, estuviste en cada momento de mi vida, compartiendo risas como llantos (más de mi parte), hemos ido creando varios recuerdos que me gusta mencionar de vez en cuando en nuestras pláticas o contarlas a conocidos, decirles algo como "sí, con mi novio hicimos esto" o algo como "uhum, la otra vez con mi prometido" y más cosas por el estilo donde siempre termino por mencionarte inconscientemente, un día de estos me dirán "hanma, ya basta, ya sabemos sobre tu novio".
-	</p>
+	
 	
 		Cada día a tu lado es una sorpresa, siempre hay algo nuevo de lo que podemos hablar y eso me encanta, tal vez no te lo comente, pero un mensajito tuyo ya me tiene sonriendo como tonto todo el rato, eres muy simpático. Quiero continuar a tu lado, sé que no soy el mejor (ante los demás sí, obviamente) y que debo mejorar algunas cosas, pero ten por seguro que solo quiero hacerte feliz por más que haga mis tonterías, te pido perdón por ello y todas las veces que te hice pasar un mal momento, también gracias por darme tu confianza, contarme como te sientes, eso es muy importante para mí. 
-	</p>
+	
 
 		Bueno, esto parece más mis disculpas que unas palabras por nuestros dos años.
 		Creo te lo dije hace un tiempo, pero no está mal recordarlo de vez en cuando, eres mi adoración y hay algo que no te he dicho directamente por pena desde que volví de aquel tiempo que te pedí, así que por aquí lo hago, tal vez en este punto esté todo nerviosa, pero ajá. Esos días en los que no estuvimos juntos, se sintieron una tortura, hablo enserio, tenía que mantenerme ocupado para poder despejar mi mente y no sobrepensar las cosas, pero como siempre, en la noche todo se me venía encima, no sé cuántas veces estuve con krevan y hiraeth llorando por lo mismo, en ese tiempo pude confirmar que sin ti no sé qué haría, a este punto de mi vida estoy tan acostumbrado a ti que si no te tengo, se siente un gran vacío que no podría explicarlo muy bien, pero no deseo repetirlo de nuevo, me hiciste muchísima falta y era peor cuando no sabía cómo hablarte de nuevo hasta esa vez por la noche e incluso estaba nervioso por un posible rechazo tuyo, las cosas estaban algo mmmmmm desde mi lugar. Luego cuando volvimos hablar poco a poco, mi ánimo comenzó a subir hasta ese día donde tuvimos el malentendido con que el otro no había respondido, debo admitir que me chocó el haber estado hablando normal y que de la nada hayamos vuelto a lo mismo de antes, pero lo solucionamos, ahora me siento mejor, con más ánimos y tranquilo, creo que después de todo debió servir de algo mi descanso, supongamos que sí sirvió.
-	</p>
+	
 
 		Ahora, como sabrás, me quedé medio traumadito con usar apk, así que decidí aprovechar esto para dejarte una pequeña lista de canciones que me gustaría dedicarte, por favor omitamos las partes obscenas que algunas canciones tienen y al último te dejé algo más, espero te gusten, perdón si no son lo que esperabas para nuestro aniversario, te amo.
 	</p>
