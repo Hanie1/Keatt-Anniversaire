@@ -92,8 +92,7 @@
 			<DT><img src="jae 1.gif" width="300" border="3" vspace="10" hspace="50" align="center"> 
 		<br> 
 		<br>
-		<br><center><a href="https://drive.google.com/drive/folders/1euKtye_rkWT500olWbnNrJfGJl9o-b-S?usp=sharing" target="_blank">drive.google.com/drive/folders/1euKtye_rkWT500olWbnNrJfGJl9o-b-S?usp=sharing</center>
-	</center></p>
+		<br><center><a href="https://drive.google.com/drive/folders/1euKtye_rkWT500olWbnNrJfGJl9o-b-S?usp=sharing" target="_blank">drive.google.com/drive/folders/1euKtye_rkWT500olWbnNrJfGJl9o-b-S?usp=sharing
 		
 </body>
 </html>
